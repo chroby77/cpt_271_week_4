@@ -54,3 +54,5 @@ You will learn what authentication and authorization are.  You will also learn a
     http://127.0.0.1:8080/hello
 
    - The thing is, we want the "/hello" endpoint to sit behind authentication!  Please follow  this tutorial [Securing a "Spring" Web application](https://spring.io/guides/gs/securing-web#scratch) to add "Basic" authentication to this web application!  While this is DEFINITELY not the "approved" method of authenticating (i.e. the user/password is in memory and directly in our source code) it will provide a basis for adding user authentication to your group projects!
+  
+   - Once you have added Basic authentication and validated that you need to "login" to see the "/hello" endpoint please commit your changes to your local repository and push them to a public repository in your GitHub account!  Then please submit that URL to this assignment on Brightspace!
