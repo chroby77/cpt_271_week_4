@@ -29,6 +29,13 @@ You will learn what authentication and authorization are.  You will also learn a
 
     You will need to install a version of the "Java Development Kit (JDK)" to run this project!  Please download and install the OpenJDK 21, open a terminal, and run "java --version" to ensure you get a response that proves you have installed a functional Java version!
 
+   - [Spring](https://spring.io/why-spring)
+  
+     This page on the "https://spring.io" website explains what the Spring "framework" is and why it's so popular!  If you work for a shop that develops their own software or implements vendor software there is a really good chance you'll come across Java applications, and you'll find that many of those applications are powered by the Spring Framework!
+
+   - [Introduction to Spring Framework](https://youtu.be/Zxwq3aW9ctU?si=ADiE2IryDSgvkTdU)
+
+   This video provides a brief introduction into why Spring is so popular in the Java application development ecosystem!
 
 
 3. **Complete the following tasks**:
